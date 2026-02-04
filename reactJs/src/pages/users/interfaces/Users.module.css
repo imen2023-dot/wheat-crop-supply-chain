@@ -1,0 +1,14 @@
+  .leaflet-div-icon {
+	background: transparent !important;
+	border-style:none !important ; 
+}
+.leaflet-routing-alternatives-container {
+    display: none;
+}
+.leaflet-marker-icon.leaflet-interactive, .leaflet-image-layer.leaflet-interactive, .leaflet-pane > svg path.leaflet-interactive, svg.leaflet-image-layer.leaflet-interactive path {
+    pointer-events: visiblePainted;
+    pointer-events: auto;
+    background: transparent !important;
+    border: none !important;
+}
+

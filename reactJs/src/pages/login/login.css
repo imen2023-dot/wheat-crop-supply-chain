@@ -1,0 +1,112 @@
+.Login{
+.login-box {
+    margin-top: 75px;
+    border-radius:25px ;
+    height: auto;
+    background: #ffffff;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.login-key {
+    height: 100px;
+    font-size: 80px;
+    line-height: 100px;
+    color:#8ba17f; 
+}
+
+.login-title {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.login-form {
+    margin-top: 25px;
+    text-align: left;
+}
+
+input[type=email] {
+    background-color: #ffffff;
+    border: none;
+    border-bottom: 2px solid #666666;
+    border-top: 0px;
+    border-radius: 0px;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 0px;
+}
+
+input[type=password] {
+    background-color: #ffffff;
+    border: none;
+    border-bottom: 2px solid #666666;
+    border-top: 0px;
+    border-radius: 0px;
+    font-weight: bold;
+    outline: 0;
+    padding-left: 0px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 40px;
+    outline: 0px;
+}
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    border-bottom: 2px solid #0dde1f;
+    outline: 0;
+}
+input:focus {
+    outline: none;
+    box-shadow: 0 0 0;
+}
+
+label {
+    margin-bottom: 0px;
+}
+
+.form-control-label {
+    font-size: 18px;
+    color: #666666;
+    letter-spacing: 1px;
+}
+
+.loginButton {
+    border-color: #0d211c;
+    color:#0d211c;
+    border-radius: 6px;
+    letter-spacing: 1px;
+}
+
+.loginButton:hover {
+    background-color: #0d211c;
+    color: #ffffff;
+    right: 0px;
+}
+
+.login-btm {
+    float: right;
+}
+
+.login-button {
+    padding-right: 0px;
+    margin-bottom: 25px;
+}
+
+.login-text {
+    text-align: left;
+    padding-left: 0px;
+    color: #000000;
+}
+
+.loginbttm {
+    padding: 0px;
+}}
